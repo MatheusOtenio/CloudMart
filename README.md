@@ -5,7 +5,6 @@
 ##  Resumo  
 Bootcamp focado em **Cloud Computing, DevOps e IA**, abordando **Infraestrutura como Código (IaC), CI/CD, Kubernetes, computação serverless e análise de dados**, proporcionando um ambiente otimizado e escalável.  
 
----
 
 ## 📍 Dia 1: Infraestrutura como Código (IaC) com Terraform e AWS  
 ✅ **Automação com Terraform e AWS** (S3, IAM, EC2)  
