@@ -42,9 +42,9 @@ Bootcamp focado em **Cloud Computing, DevOps e IA**, abordando **Infraestrutura 
 
 
 ##  Dia 5: MultiCloud e Análise de Dados  
-✅ **Integração MultiCloud com Google BigQuery, Azure Text Analytics, AWS Lambda e Kubernetes**  
-✅ **Configuração do BigQuery e funções Lambda com DynamoDB**  
-✅ **Deploy no Kubernetes**  
+✓ **Integração MultiCloud com Google BigQuery, Azure Text Analytics, AWS Lambda e Kubernetes**  
+✓ **Configuração do BigQuery e funções Lambda com DynamoDB**  
+✓ **Deploy no Kubernetes**  
  **Benefícios:** Resiliência, alta disponibilidade e insights com IA  
 
 ---
