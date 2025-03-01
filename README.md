@@ -12,7 +12,6 @@ Bootcamp focado em **Cloud Computing, DevOps e IA**, abordando **Infraestrutura 
 ✅ **Instalação do Terraform e destruição de recursos** com `terraform destroy`  
  **Benefícios:** Eficiência, segurança e escalabilidade  
 
- **Imagem:**  
 ![Fluxograma](Imagem/1.png)  
 ![Dia 1](Imagem/2.png)  
 
@@ -32,7 +31,6 @@ Bootcamp focado em **Cloud Computing, DevOps e IA**, abordando **Infraestrutura 
 ✅ **Integração com Amazon Bedrock**  
  **Benefícios:** Redução de custos, alta disponibilidade e IA escalável  
 
- **Imagem:**  
 ![Dia 3](Imagem/3.png)  
 
 ---
@@ -43,7 +41,6 @@ Bootcamp focado em **Cloud Computing, DevOps e IA**, abordando **Infraestrutura 
 ✅ **Criação de imagens Docker para backend e frontend**  
  **Benefícios:** Portabilidade e IA personalizada  
 
-📌 **Imagem:**  
 ![Dia 4](Imagem/4.png)  
 
 ---
